@@ -14,6 +14,19 @@ Konsep yang digunakan:
 * Print
 * While Loop
 
+## Tebak Angka (Guest The Number)
+
+Permainan tebak angka, secara acak komputer akan mengacak angka 1 - 100 untuk dipilih satu, user akan menebak angka berapa yang telah di acak. Jika pilihan user lebih kecil dari angkanya akan keluar notice bahwa angka terlalu kecil, dan begitu pula sebaliknnya.
+
+Konsep yang digunakan:
+* Random
+* Function
+* If-Else Statement
+* While Loop
+* Integer
+* Input-output
+* Execption
+
 ## Gunting Batu Kertas (Rock Paper Scissors)
 
 Permainan gunting batu kertas melawan komputer, user memilih antara gunting, batu dan kertas, kemudian komputer juga akan memilih secara acak. Seperti permainan gunting batu kertas biasanya.
@@ -21,7 +34,7 @@ Permainan gunting batu kertas melawan komputer, user memilih antara gunting, bat
 Konsep yang digunakan:
 * Random
 * Function
-* If-Else Condition
+* If-Else Statement
 * Dictionary
 * List
 * Tuple
