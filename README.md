@@ -20,7 +20,7 @@ Tujuannya adalah membuat sebuah cerita menjadi dinamis. Awalnya kita mendefenesi
 
 Konsep yang digunakan:
 * String
-* Variiable
+* Variable
 * Input-output
 * List
 
@@ -49,6 +49,37 @@ Konsep yang digunakan:
 * List
 * Tuple
 * While Loop
+
+## Arah Petualangan dengan Text (Text Based Adventure Game)
+
+Game ini mengambil skenario seekor kelinci yang ingin mengantar sebuah telur untuk di simpan pada sebuah keranjang. Keranjang berada pada sebuah ruangan dalam rumah. Dengan menggunakan input text user dapat menggerakkan kelinci dari satu ruangan ke ruangan lain untuk mencari keranjang. Setelah telur berhasil di kirim, kelinci harus di arahkan ke ruangan awal pada saat game baru di mulai.
+
+Konsep yang digunakan:
+* Random
+* Function
+* If-Else Statement
+* Dictionary
+* List
+* Tuple
+* While Loop
+* Bolean
+* Input-output
+
+## Tebak Kata (Guest The Word / Hangman)
+
+Tebak kata merupakan game sederhana yang goalnya user akan menebak kata acak pilihan game. Awalnya game memiliki beberapa kata, kemudian dipilih secara acak untuk di tebak oleh user. User bisa memasukkan 1 huruf pertebakan kemudian game mengecek apakah ada huruf tersebut yang terkandung dalam kata, jika ada huruf akan muncul dan begitu seterusnya sampai user dapat menebak keseluruhan huruf yang membentuk kata.
+
+Konsep yang digunakan:
+* Random
+* Function
+* If-Else Statement
+* Dictionary
+* List
+* Tuple
+* For Loop
+* While Loop
+* Bolean
+* Input-output
 
 ## Kontributor
 
