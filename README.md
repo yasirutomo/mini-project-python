@@ -6,7 +6,7 @@ Beberapa mini project yang dapat digunakan untuk belajar Python, beberapa projec
 
 ## Permainan Lempar Dadu (Dice Rolling Simulator)
 
-Seperti namanya, project ini merupakan simulator permainan lempar dadu melawan komputer. User akan diminta melempar sebuah dadu, setelahnya komputer akan melempar dadu secara acak juga, hasilnya kemudian di bandingkan, siapa yang mendapat nilai dadu tertinggi adalah pemenangnya. 
+Seperti namanya, project ini merupakan simulator permainan lempar dadu. User akan diminta melempar sebuah dadu, kemudian komputer mengeluarkan nilai dadu secara acak, sangat sederhana namun baik untuk project-project berikutnya. 
 
 Konsep yang digunakan:
 * Random
